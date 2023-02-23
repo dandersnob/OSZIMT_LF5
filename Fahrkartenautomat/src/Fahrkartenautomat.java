@@ -151,7 +151,7 @@ class Fahrkartenautomat {
 
 		System.out.println("\nVergessen Sie nicht, den Fahrschein\n" + "vor Fahrtantritt entwerten zu lassen!\n"
 				+ "Wir wünschen Ihnen eine gute Fahrt.");
-
+		System.out.println("Test");
 		tastatur.close();
 	}
 }
